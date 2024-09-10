@@ -4,6 +4,7 @@
 
 ## ⌨️ Commandes
 
+* [Hud](commandes/hud.md)
 * [Touches & Commandes](commandes/touches-and-commandes.md)
 
 ## 🍴 Restaurant
