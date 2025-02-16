@@ -1,14 +1,3 @@
----
-<!-- Primary Meta Tags -->
-meta-title: "Thunder RP - Règlement"
-meta-description: "Règlement complet de Thunder RP, incluant les règles générales, spécifiques et les points importants pour une expérience RP optimale."
-<!-- Open Graph -->
-meta-og-image: https://thunder-rp.fr/assets/images/banner.webp
-<!-- Twitter -->
-meta-twitter-image: https://thunder-rp.fr/assets/images/banner.webp
----
-
-
 # Règlement RP
 
 ## Arnaques
