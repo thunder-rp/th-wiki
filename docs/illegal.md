@@ -15,6 +15,8 @@ Tout d'abord, **toutes les règles pour les civils s'appliquent également pour 
 
 ***
 
+dazdazdad
+
 ### Règles spécifiques
 
 #### 1. Vols de véhicules
