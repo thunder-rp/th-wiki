@@ -1,3 +1,13 @@
+---
+<!-- Primary Meta Tags -->
+meta-title: "Thunder RP - Règlement Illégal"
+meta-description: "Règlement complet pour la partie illégale de Thunder RP, incluant les règles générales, spécifiques et les points importants pour une expérience RP optimale."
+<!-- Open Graph -->
+meta-og-image: https://thunder-rp.fr/assets/images/banner.png
+<!-- Twitter -->
+meta-twitter-image: https://thunder-rp.fr/assets/images/banner.png
+---
+
 # Règlement Illégal Thunder RP
 
 Tout d'abord, **toutes les règles pour les civils s'appliquent également pour la partie illégale.**
