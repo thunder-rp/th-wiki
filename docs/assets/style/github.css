@@ -30,6 +30,8 @@ mark  {
   border-radius: 10px;
   outline: 1px solid #00000024;
   outline-offset: -1px;
+  height: 420px;
+  object-fit: cover;
 }
 
 div#app {
