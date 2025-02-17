@@ -21,6 +21,28 @@ body:not(.ready) > nav {
   display: none;
 }
 
+footer {
+  background-color: rgb(0 0 0 / 10%);
+  padding: 15px 15px;
+  height: fit-content;
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+  border-radius: 10px;
+  position: sticky;
+  bottom: 15px;
+  backdrop-filter: blur(5px);
+}
+
+.highlight {
+  background-color: rgb(0 0 0 / 10%); 
+  transition: all cubic-bezier(.46,.43,.1,.99) 0.2s;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  background: rgb(255 255 255 / 11%) !important;
+  backdrop-filter: blur(5px);
+}
+
 
 
 mark  {
@@ -372,6 +394,14 @@ body.sticky .sidebar,
 body.sticky .sidebar-toggle {
   position: fixed;
 }
+
+body.sticky .sidebar-toggle {
+  position: fixed;
+  transition: all cubic-bezier(.46, .43, .1, .99) 0.2s;
+}
+
+
+
 .content {
   padding-top: 60px;
   position: absolute;
