@@ -666,6 +666,11 @@ body.close .content {
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
   }
+
+
+  .basic-img img {
+    max-width: 90%;
+  }
 }
 @keyframes octocat-wave {
   0%, 100% {
