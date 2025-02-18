@@ -44,6 +44,99 @@ footer {
 }
 
 
+.basic-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+  background-color: rgb(0 0 0 / 10%);
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.basic-img img {
+  max-width: 50vh;
+  height: auto;
+  border-radius: 10px;
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+}
+
+.basic-img figcaption {
+  text-align: center;
+  margin-top: 8px;
+  color: #666;
+  height: fit-content;
+
+}
+
+.basic-img figcaption p {
+  line-height: 0 !important;
+}
+
+.tab-container {
+  margin: 20px 0;
+  background-color: rgb(0 0 0 / 10%);
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.tab-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.tab-button {
+  padding: 8px 16px;
+  border: none;
+  background: #f0f0f0;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+}
+
+.tab-button.active {
+  background: var(--theme-color, #42b983);
+  color: white;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.tab-content figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  outline: 1px solid #00000024;
+  outline-offset: -1px;
+}
+
+.tab-content figcaption {
+  text-align: center;
+  margin-top: 8px;
+  color: #666;
+}
 
 mark  {
   background-color: transparent;
