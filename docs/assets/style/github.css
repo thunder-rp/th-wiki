@@ -141,6 +141,7 @@ footer {
 }
 
 .tab-content img {
+  width: 100%;
   max-width: 50vh;
   height: auto;
   border-radius: 10px;
@@ -149,6 +150,7 @@ footer {
 }
 
 .tab-content iframe {
+  width: 100%;
   max-width: 50vh;
   border-radius: 10px;
   outline: 1px solid #00000024;
