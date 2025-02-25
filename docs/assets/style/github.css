@@ -1160,3 +1160,9 @@ code .token {
   position: relative;
   left: auto;
 }
+
+@media screen and (max-height: 1039px) {
+  .markdown-section iframe {
+    height: 24rem;
+  }
+}
