@@ -44,3 +44,25 @@ Points importants :
     <figure><iframe src="" data-src="https://web-map.thunder-rp.fr/?location=pizza-this"></iframe><figcaption>Position du Pizza This de Vinewood</figcaption></figure>
   </div>
 </div>
+
+## 📦 GoPostal
+Vous pouvez livrer des colis pour gagner de l'argent facilement. Pour commencer, rendez-vous au dépôt GoPostal situé à __Vinewood__. Une fois sur place, parlez au responsable pour commencer votre tournée de livraison.
+
+Points importants :
+- Durée moyenne : 20-25 minutes
+- Véhicule fourni : Camionnette GoPostal
+
+<div class="tab-container">
+  <div class="tab-buttons">
+    <button class="tab-button active" data-tab="photo-3">Photo</button>
+    <button class="tab-button" data-tab="position-3">Position</button>
+  </div>
+  
+  <div id="photo-3" class="tab-content active">
+    <figure><img src="./assets/img/gopostal-img.jpg" alt="Photo du dépôt GoPostal"><figcaption>Photo du dépôt GoPostal</figcaption></figure>
+  </div>
+  
+  <div id="position-3" class="tab-content">
+    <figure><iframe src="" data-src="https://web-map.thunder-rp.fr/?location=gopostal"></iframe><figcaption>Position du dépôt GoPostal</figcaption></figure>
+  </div>
+</div>
