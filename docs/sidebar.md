@@ -2,5 +2,6 @@
 
 * [👏Débuter l'aventure](/)
 * [🚨Problème](/problem)
+* [⌨️ Touches](/keybind)
 
 * [💼 Métier Intérim](/side-job)
