@@ -5,3 +5,5 @@
 * [⌨️ Touches](/keybind)
 
 * [💼 Métier Intérim](/side-job)
+* [🗳️ Vote](/vote)
+
