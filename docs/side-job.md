@@ -1,6 +1,27 @@
 # 💼 Métier Intérim
 Ici trouvé tout les métiers intérim disponible pour gagnez de l'argent facielement sur Thunder RP.
 
+## 🗑️ Collecte de déchets
+Vous pouvez ramasser les déchets en ville pour gagner de l'argent facilement. Pour commencer, rendez-vous au point de départ situé près du __Rogers Salvage & Scrap__. Une fois sur place, parlez au responsable pour commencer votre tournée de nettoyage.
+
+Points importants :
+- Durée moyenne : 10-15 minutes
+
+<div class="tab-container">
+  <div class="tab-buttons">
+    <button class="tab-button active" data-tab="photo-1">Photo</button>
+    <button class="tab-button" data-tab="position-1">Position</button>
+  </div>
+  
+  <div id="photo-1" class="tab-content active">
+    <figure><img src="./assets/img/rogers.jpg" alt="Photo du Rogers Salvage & Scrap"><figcaption>Photo du Rogers Salvage & Scrap</figcaption></figure>
+  </div>
+  
+  <div id="position-1" class="tab-content">
+    <figure><iframe src="" data-src="https://web-map.thunder-rp.fr/?location=rogers"></iframe><figcaption>Position du Rogers Salvage & Scrap</figcaption></figure>
+  </div>
+</div>
+
 ## 📰 Livraison de journaux
 Vous pouvez livrer des journaux pour gagner de l'argent facilement. Pour commencer, rendez-vous au point de départ situé une rue à coté du __Legion Square__. Une fois sur place, parler au patron est commencer une tournée.
 
