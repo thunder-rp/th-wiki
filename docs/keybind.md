@@ -43,5 +43,5 @@ Clavier AZERTY
 | R | Changer le son de la sirène (véhicules équipés) |
 | A | Activer/Désactiver les gyrophares (véhicules équipés) |
 | ALT | Activer/Désactiver la sirène (véhicules équipés) |
-| ! | Verrouiller le véhicule |
+| L | Verrouiller le véhicule |
 | W | Changer la taille du radar |
