@@ -16,6 +16,10 @@ Tu peux acheter ton tout premier téléphone dès ton arrivée, directement à l
 
 ---
 
+## Essentiel
+Le menu principal se trouve sur la touche F1, dessus on retrouve plein d'options utiles.
+Et la plupart des actions fonctionnent avec le alt click droit
+
 ## 🚗 Passe ton permis de conduire
 
 Direction l’**auto-école** pour obtenir ton permis et pouvoir circuler librement en ville.
